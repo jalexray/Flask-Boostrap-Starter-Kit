@@ -1,4 +1,3 @@
-# Parade Tools - Flask Server (Scribe Automation)
 import os
 from dotenv import load_dotenv
 
